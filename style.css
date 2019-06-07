@@ -1,0 +1,22 @@
+.body{
+	background: #008B8B;
+}
+.flex{
+	display: flex;
+}
+.box{
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	width: 1500px;
+	height: 275px;
+}
+.box1{
+	padding-left: 10px;
+}
+.text{
+	color: white;
+	margin-left: 230px;
+	height: 50px;
+	margin-top: 50px;
+}
